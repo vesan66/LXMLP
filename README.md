@@ -1,7 +1,7 @@
 # LXMLP
 Light XML Parser.
 
-This is a simple XMP-Parser and Object-to-xml-to-file mapper.
+This is a simple XML-Parser and Object-to-xml-to-file mapper.
 
 ## What is it used for?
 You may use this bunch of files, if you want to store some more sophiosticated configurations of your software.
