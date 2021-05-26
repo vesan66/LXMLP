@@ -20,6 +20,7 @@ Short: Inherit from 'LXMLObject' and override the needed methods like:
  - FillObjectFromSource(LXMLElement* pLXML)
  - FillSourceFromObject(LXMLElement* pLXML)
  - inline virtual string ClassNameXML() const override { return ContItem::ClassName(); }
+ 
 and implement this:
   -inline string ClassName() { return "THE_NAME_OF_YOUR_CLASS_IN_XML"; }
   
