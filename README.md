@@ -15,7 +15,7 @@ If you want to avoid dependencies to larger frameworks.
 - Containers of simple types
 
 # Things to improve
-Today the string values are only converted to Hex to avoid any escaping-circus. Maybe better to use base64. But a valid char there is a '/', which means: there might be inteferences with the surrounding xml.
+Today the string values are only converted to Hex to avoid any escaping-circus. Maybe better to use Base64. But a valid char there is a '/', which means: there might be inteferences with the surrounding xml.
 
 ## License
 MIT - License
