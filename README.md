@@ -4,7 +4,7 @@ Light XML Parser.
 This is a simple XML-Parser and Object-to-xml-to-file mapper.
 
 ## What is it used for?
-You may use this bunch of files, if you want to store some more sophiosticated configurations of your software.
+You may use this bunch of files, if you want to store some more sophisticated configurations of your software.
 
 If you want to avoid dependencies to larger frameworks.
 
