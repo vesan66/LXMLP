@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LightXMLParser", "LightXMLParser\LightXMLParser.vcxproj", "{6BCDF836-A254-4ED0-9519-2CA4C2919DA8}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "XMLTests", "XMLTests\XMLTests.vcxproj", "{D42DCF99-BE07-4467-A33D-67C1B1A27157}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BCDF836-A254-4ED0-9519-2CA4C2919DA8}.Debug|x86.ActiveCfg = Debug|Win32
+		{6BCDF836-A254-4ED0-9519-2CA4C2919DA8}.Debug|x86.Build.0 = Debug|Win32
+		{6BCDF836-A254-4ED0-9519-2CA4C2919DA8}.Release|x86.ActiveCfg = Release|Win32
+		{6BCDF836-A254-4ED0-9519-2CA4C2919DA8}.Release|x86.Build.0 = Release|Win32
+		{D42DCF99-BE07-4467-A33D-67C1B1A27157}.Debug|x86.ActiveCfg = Debug|Win32
+		{D42DCF99-BE07-4467-A33D-67C1B1A27157}.Debug|x86.Build.0 = Debug|Win32
+		{D42DCF99-BE07-4467-A33D-67C1B1A27157}.Release|x86.ActiveCfg = Release|Win32
+		{D42DCF99-BE07-4467-A33D-67C1B1A27157}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56BF8359-7233-4FA4-A0A5-C178E15A2397}
+	EndGlobalSection
+EndGlobal
